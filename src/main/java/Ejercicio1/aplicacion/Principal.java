@@ -1,5 +1,5 @@
-package aplicacion;
-import mates.Matematicas;
+package Ejercicio1.aplicacion;
+import Ejercicio1.mates.Matematicas;
 
 public class Principal {
 

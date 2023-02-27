@@ -1,7 +1,11 @@
+package Ejercicio1.mates;
+
 import java.util.Scanner;
 
-public class Practica1 {
-//Ejercicio 1
+public class Matematicas {
+
+    //Ejercicio 1
+
     public void MetodoMontecarlo() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese la cantidad de puntos a generar: ");
@@ -19,8 +23,5 @@ public class Practica1 {
 
     }
 
-    public static void main(String[] args) {
-        Practica1 p1 = new Practica1();
-        p1.MetodoMontecarlo();
-    }
+
 }
