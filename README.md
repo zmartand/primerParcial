@@ -1,3 +1,3 @@
 # primerParcial
 ## NOTA:
-Mi repositorio es: 
+Mi repositorio es: https://github.com/zmartand/primerParcial.git
